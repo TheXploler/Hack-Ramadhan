@@ -1,6 +1,6 @@
 # Hack Ramadhan
 
-A Totally Real Ramadhan Hack 2023 100% No Virus
+Totally Real Ramadhan Hack 2023 100% Work No Virus
 
 ## Installation
 
