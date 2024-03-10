@@ -1,10 +1,12 @@
-# Hack Ramadhan
-
-A Totally Real Ramadhan Hack 2024 100% No Virus
+<p align=center>
+<img src="logo.png" alt="logo" style="width:200px;"/>
+</p>
+<h1 align=center>Hack Ramadhan</h1>
+<p align=center>A Totally Real Ramadhan Hack 2024 100% No Virus</p>
 
 ## Screenshots
 
-| ![App Screenshot](showcase.png) | ![App Screenshot](showcase.GIF) |
+| ![App Screenshot](showcase.png) | ![App Demo](showcase.GIF) |
 | ----------------------------- | ----------------------------- |
 
 ## Installation
