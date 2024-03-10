@@ -4,7 +4,7 @@ A Totally Real Ramadhan Hack 2024 100% No Virus
 
 ## Screenshots
 
-| ![App Screenshot](showcase.png) | ![App Screenshot](showcase.gif) |
+| ![App Screenshot](showcase.png) | ![App Screenshot](showcase.GIF) |
 | ----------------------------- | ----------------------------- |
 
 ## Installation
