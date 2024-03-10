@@ -1,11 +1,11 @@
 # Hack Ramadhan
 
-A Totally Real Ramadhan Hack 2023 100% No Virus
+A Totally Real Ramadhan Hack 2024 100% No Virus
 
 ## Screenshots
 
-![App Screenshot](https://github.com/TheXploler/Hack-Ramadhan/blob/main/showcase.png)
-
+| ![App Screenshot](showcase.png) | ![App Screenshot](showcase.gif) |
+| ----------------------------- | ----------------------------- |
 
 ## Installation
 
@@ -15,7 +15,10 @@ Use [pip](https://pip.pypa.io/en/stable/) to install requirements.txt
 pip install requirements.txt
 ```
 
+Or you can download the [executable](https://github.com/TheXploler/Hack-Ramadhan/releases/latest) here
+
 ## Run
+
 ```bash
 python3 "Hack Ramadhan Reborn.py"
 ```
