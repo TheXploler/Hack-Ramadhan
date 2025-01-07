@@ -37,7 +37,7 @@ else:
 root = tk.Tk()
 style = ttk.Style(theme='superhero')
 root.resizable(False, False)
-root.title(f"Hack Ramadhan 2024 Reborn {version}")
+root.title(f"Hack Ramadhan {programyear} Reborn {version}")
 root.iconbitmap("favicon.ico")
 
 title = ttk.Label(root, text=f"Hack Ramadhan Reborn {programyear}", font=("Arial", 30))
